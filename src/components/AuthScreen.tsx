@@ -8,6 +8,7 @@ import {
   signInWithPopup,
 } from "firebase/auth";
 import { KeyRound, Mail, Sparkles, LogIn, ArrowRight } from "lucide-react";
+import firebaseConfig from "../../firebase-applet-config.json";
 
 interface AuthScreenProps {
   onAuthSuccess: () => void;
@@ -151,17 +152,17 @@ export default function AuthScreen({ onAuthSuccess }: AuthScreenProps) {
                   💡 Firebase Console Troubleshooting Guide
                 </div>
                 <p className="leading-relaxed text-gray-300">
-                  The <span className="text-white font-semibold">{operationNotAllowedProvider === "email" ? "Email/Password" : operationNotAllowedProvider === "google" ? "Google" : "Anonymous"}</span> sign-in provider is disabled for the Firebase project <span className="text-white font-bold">mindmirrorai</span>.
+                  The <span className="text-white font-semibold">{operationNotAllowedProvider === "email" ? "Email/Password" : operationNotAllowedProvider === "google" ? "Google" : "Anonymous"}</span> sign-in provider is disabled for the Firebase project <span className="text-white font-bold">{firebaseConfig.projectId || "mindmirrorai"}</span>.
                 </p>
                 <div className="space-y-1.5 text-gray-300 pl-1 text-[11px]">
                   <div>1. Open the Firebase Authentication Console:</div>
                   <a 
-                    href="https://console.firebase.google.com/project/mindmirrorai/authentication/providers"
+                    href={`https://console.firebase.google.com/project/${firebaseConfig.projectId || "mindmirrorai"}/authentication/providers`}
                     target="_blank"
                     referrerPolicy="no-referrer"
                     className="text-blue-400 hover:underline break-all block py-1 px-2 bg-[#1C1A16] rounded border border-amber-500/10 font-sans font-medium"
                   >
-                    https://console.firebase.google.com/project/mindmirrorai/authentication/providers
+                    https://console.firebase.google.com/project/{firebaseConfig.projectId || "mindmirrorai"}/authentication/providers
                   </a>
                   <div>2. Click on the <span className="text-white font-semibold">Sign-in method</span> tab.</div>
                   <div>3. Click <span className="text-white font-semibold">Add new provider</span>.</div>

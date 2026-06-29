@@ -11,6 +11,24 @@ Unlike static calendars or reminder notifications that merely add stress by tell
 
 ---
 
+## 📸 Application Screenshots & Interface Mockups
+
+Here is a visual walk-through of the highly responsive, sleek **Cosmic Slate** interface of DeadlineHero AI:
+
+### 1. Unified Agentic Dashboard
+*Our main command center containing the real-time Burnout Index gauge, focus timers, and intelligent agenda flow.*
+<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80" alt="DeadlineHero AI Unified Dashboard" width="100%" style="border-radius: 8px;" referrerPolicy="no-referrer" />
+
+### 2. Emergency Rescue Agent Panel
+*Activated automatically during critical resource overload to decompress calendars and calculate recovery probability.*
+<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Emergency Rescue Agent Panel" width="100%" style="border-radius: 8px;" referrerPolicy="no-referrer" />
+
+### 3. AI Cognitive Coach & Analytics
+*Custom trend visualizations outlining weekly burnout indexes, fatigue ratios, and cognitive behavioral advice.*
+<img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?auto=format&fit=crop&w=1200&q=80" alt="AI Cognitive Coach & Analytics" width="100%" style="border-radius: 8px;" referrerPolicy="no-referrer" />
+
+---
+
 ## ⚡ Key AI Agents Architecture
 
 DeadlineHero AI leverages six autonomous cognitive agents powered by the high-speed reasoning capabilities of **Google Gemini**:

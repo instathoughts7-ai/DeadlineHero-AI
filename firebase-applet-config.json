@@ -1,9 +1,10 @@
 {
-  "projectId": "mindmirrorai",
-  "appId": "1:67489970161:web:2e49f57a35b9fa95907650",
-  "apiKey": "AIzaSyDvFBsMb9D_027-IWJfmhwmhIzStwiFzJ4",
-  "authDomain": "mindmirrorai.firebaseapp.com",
-  "storageBucket": "mindmirrorai.firebasestorage.app",
-  "messagingSenderId": "67489970161",
+  "projectId": "deadlinehero-ai-96171",
+  "appId": "1:5559545729:web:daca63228eae769e5ac280",
+  "apiKey": "AIzaSyDojsQvyLGlM91JXCvm70cqzXbSyKL9mf0",
+  "authDomain": "deadlinehero-ai-96171.firebaseapp.com",
+  "firestoreDatabaseId": "ai-studio-deadlineheroai-b25989d6-eca3-4700-895e-535a1ea00128",
+  "storageBucket": "deadlinehero-ai-96171.firebasestorage.app",
+  "messagingSenderId": "5559545729",
   "measurementId": ""
 }
