@@ -48,6 +48,14 @@ DeadlineHero AI solves this by providing:
 - Explainable AI recommendations
 
 ---
+## Problem It Solves
+
+DeadlineHero AI addresses one of the biggest productivity challenges faced by students, professionals, freelancers, and entrepreneurs—missing important deadlines due to poor planning, procrastination, changing priorities, and burnout.
+
+Unlike traditional task managers that simply send reminders, DeadlineHero AI acts as an autonomous AI productivity companion. It intelligently analyzes user goals, prioritizes tasks, generates optimized schedules, predicts deadline risks, adapts to unexpected disruptions, monitors cognitive fatigue, and provides personalized coaching to help users consistently complete important work before deadlines are missed.
+
+The platform transforms productivity from passive reminders into proactive execution assistance through autonomous multi-agent AI.
+---------
 
 # 🧠 Multi-Agent AI Architecture
 
@@ -284,18 +292,17 @@ Weekly retrospective dashboard that analyzes completed work and generates person
 
 ---
 
-# 📈 Hackathon Evaluation Alignment
+## Challenges Faced
 
-| Category | Coverage |
-|----------|----------|
-| Problem Solving & Impact | ⭐⭐⭐⭐⭐ |
-| Agentic Depth | ⭐⭐⭐⭐⭐ |
-| Innovation & Creativity | ⭐⭐⭐⭐⭐ |
-| Google Technologies | ⭐⭐⭐⭐⭐ |
-| Product Experience | ⭐⭐⭐⭐⭐ |
-| Technical Implementation | ⭐⭐⭐⭐⭐ |
-| Completeness & Usability | ⭐⭐⭐⭐⭐ |
+Developing DeadlineHero AI involved solving several complex engineering and AI challenges:
 
+- Designing and orchestrating a scalable 12-agent AI architecture.
+- Building reliable AI workflows using Google Gemini while handling API quota limits gracefully.
+- Implementing strict Zod validation to prevent malformed AI responses.
+- Supporting both Offline Demo Mode and Cloud Sync Mode with Firebase Authentication and Cloud Firestore.
+- Integrating Google Calendar OAuth with secure two-way synchronization and conflict-aware scheduling.
+- Maintaining modular TypeScript architecture with zero linting errors and production-ready code quality.
+- Deploying the complete application on Google Cloud Run while ensuring scalability, security, and responsiveness.
 ---
 
 # 🌍 Live Demo
