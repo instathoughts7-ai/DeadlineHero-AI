@@ -1,3 +1,8 @@
+
+
+<img width="1897" height="862" alt="image" src="https://github.com/user-attachments/assets/fd5f159b-d992-4ae9-80f5-5727bc8550aa" />
+
+
 # 🚀 DeadlineHero AI
 
 > **Your AI-Powered Productivity Companion That Prevents Missed Deadlines**
@@ -67,6 +72,8 @@ DeadlineHero AI is powered by **12 specialized AI Agents** working together.
 
 # ✨ Key Features
 
+<img width="342" height="847" alt="image" src="https://github.com/user-attachments/assets/50c0374c-a6bb-4127-be48-408aae8a9c3b" />
+
 ## 📊 Operations Dashboard
 
 - Live productivity metrics
@@ -79,6 +86,7 @@ DeadlineHero AI is powered by **12 specialized AI Agents** working together.
 ---
 
 ## 📅 AI Calendar & Scheduling
+<img width="1812" height="845" alt="image" src="https://github.com/user-attachments/assets/01c9717b-3eac-416a-8b82-920862a69448" />
 
 - Intelligent calendar planning
 - AI agenda generation
@@ -89,6 +97,7 @@ DeadlineHero AI is powered by **12 specialized AI Agents** working together.
 ---
 
 ## 🚨 Deadline Rescue Mode
+<img width="1432" height="832" alt="image" src="https://github.com/user-attachments/assets/c8a0b39f-16d5-4d6a-aff5-7418489e90ab" />
 
 When deadlines become critical:
 
@@ -101,6 +110,7 @@ When deadlines become critical:
 ---
 
 ## 🧠 AI Productivity Coach
+<img width="1525" height="842" alt="image" src="https://github.com/user-attachments/assets/52cdc58d-5bc0-4779-baf2-eda5f9886802" />
 
 Personalized coaching based on:
 
@@ -120,6 +130,7 @@ Provides:
 ---
 
 ## 🎤 Command Desk Assistant
+<img width="1517" height="832" alt="image" src="https://github.com/user-attachments/assets/cc94ee7f-127e-4220-90da-bd64fc198144" />
 
 Natural language task creation.
 
@@ -138,6 +149,7 @@ Gemini automatically:
 ---
 
 ## 📈 Reflection Lab
+<img width="1472" height="577" alt="image" src="https://github.com/user-attachments/assets/c199d30e-9c18-4126-af81-462eba511ef6" />
 
 - Weekly reviews
 - Habit analysis
@@ -148,6 +160,10 @@ Gemini automatically:
 ---
 
 # 📸 Application Screenshots
+<img width="1425" height="757" alt="image" src="https://github.com/user-attachments/assets/556e573f-74c3-4c6c-851d-224c9dc343f9" />
+
+<img width="1461" height="722" alt="image" src="https://github.com/user-attachments/assets/9b762cc0-483c-46b6-bf04-f79ce9544f9f" />
+
 
 ## Operations Dashboard
 
