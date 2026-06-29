@@ -1,0 +1,6 @@
+{
+  "name": "DeadlineHero AI",
+  "description": "The AI Productivity Companion That Doesn't Just Remind You — It Helps You Finish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
