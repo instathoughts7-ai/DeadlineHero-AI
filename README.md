@@ -1,8 +1,4 @@
 
-
-<img width="1897" height="862" alt="image" src="https://github.com/user-attachments/assets/fd5f159b-d992-4ae9-80f5-5727bc8550aa" />
-
-
 # 🚀 DeadlineHero AI
 
 > **Your AI-Powered Productivity Companion That Prevents Missed Deadlines**
